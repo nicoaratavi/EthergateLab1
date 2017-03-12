@@ -1,3 +1,5 @@
+//cineva a uita sa puna un header
+
 module counter_top
 	(
 		clk,
